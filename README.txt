@@ -41,3 +41,7 @@ Credits:
 
 	site
 		https://shogo-dayo.github.io/index
+
+Edit Profile
+	- content
+		- index.html
